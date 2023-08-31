@@ -1,0 +1,36 @@
+        MAP
+        ----
+>"It isa data strucutre in which value is stored
+ in the form of key"... 
+
+ Ex;
+ suppose our "key is king"
+ and "value scorpio"
+
+  so king is pointing to-> scorpio 
+
+
+NOTE: "Every KEY is UNIQUE"...
+    Means one key will point to only one value 
+
+    means king will point to scorpio only
+    it(king) cannot point to other vehicle
+
+
+
+Means:
+>"All KEYS r Unique"
+
+>"one key will point to only 1 value"
+
+
+NOTE: it can be like this:
+   
+   Rishi is pointing to scorpio
+    and
+   King is pointing to scorpio
+
+   "means value can be same"
+
+   "but same key will not point to 2 value" 
+

@@ -1,0 +1,24 @@
+       PRIORITY QUEUE(PQ)
+       ---------------
+
+MAX-HEAP:
+>Prioriy Queue means mne ek aisa Queue bana diya hai
+ jiska "First Element will always be Greatest" hamesa
+
+
+"Defaultt PQ will always be Max-Heap"
+
+
+
+Whenever we put element in PQ, we hv eneterd the data
+
+  so when we will start taking out
+  we hv 2 ways:"
+  either we make "Max-Heap" then the element we will
+  take out will be maxm-element
+
+      or 
+  if we make "min-heap", the element we ill be taking 
+  will be minimum element....
+  
+       

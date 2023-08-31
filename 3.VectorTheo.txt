@@ -1,0 +1,63 @@
+VECTOR is our "Dymnamic Array"
+
+just like Array everything is " Stored in CONTOGUOUS MEMEORY Location",same way
+followed in vector as well
+
+
+>> What is the DIFFRENCE?
+  > When the vector gets "FULL"
+    Suppose the size of vector is 4 , e filled 4 eleemnts,
+    Now when " we try to pu the 5th element 'Vector will DOUBLE ITS SIZE' "
+
+        How it is possiible?
+        >it will create a new vector which size will be "DOUBLE than Previous-One"
+        "It will Copy all the Elements from the Old vector to new One"
+        "AND it will DUMP the OLD Vector"
+
+
+Simply we can say:
+------------------
+One vector is old and fully filled and new vector 
+will be created that will be double its size.
+After that old one will be Copied to the new one,
+and old one will be Dead....
+
+     So this the Functioning and we call it
+     "DYNAMIC in Size" as it know to increase or
+     decrease it size
+
+we can also use "SHRINK TO FIT" operatiion to 
+decrease it...
+
+
+
+When we create the new vector its size is 0
+>we can check it using '.capacity' Operation
+ if we want to check the size...
+
+ vector<int> v;
+ cout<<"Size->"<<v.capacity()<<endl;
+
+
+ Note: Size means currently how many  elements it 
+ ----    is consisting...
+
+       And capacity means total how many elements
+       it can consist...
+
+       
+
+ 
+
+ To "Clear the vector we use clear Operation"
+ >In that case the "Vector size is 0" "but CAPACITY isn't"..
+
+
+ CAPACITY-> means the number of memeories asigned..
+
+ SIZE-> Means the number of elements in the vector
+
+
+
+Note: If we need the Iterator of vector, the starting iterator 
+      of vector then we can use ".begin"

@@ -1,0 +1,53 @@
+
+  Note: The latter array is STL
+  and its implementation is same as the Basic Array
+
+  It means the implementation of Array STL happens with
+  "Fixed sized Static Array"
+
+    -----------------------
+
+ Means STL array is also a 
+type of 
+"STATIC ARRAY"
+>>>This is the reason why we 
+do not use  it in CP
+
+
+-----------------------------
+
+  Process of prining the SIZE
+  in "STL" array:
+
+  array<int,4> a = {1,2,3,4};
+
+  int size = a.size();
+
+
+for(int i=0;i<size;i++){
+    cout<<a[i]<<endl;
+  }
+
+//size is accessed by using [] bracket with name before it
+
+
+-----------------------------
+  By using "at" operation we can find array at manchhaha index
+
+
+
+  array<int,4> a = {1,2,3,4};
+
+  int size = a.size();
+
+  for(int i=0;i<size;i++){
+    cout<<a[i]<<endl;
+  }
+
+  cout<<"Element at 2nd index"<<a.at(2)<<endl;
+
+cout<<"Empty or Not->"<<a.empty()<<endl;
+
+  
+
+

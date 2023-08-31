@@ -1,0 +1,33 @@
+         LIST
+        --------
+
+ >its implementation occurs due o doubly-linked-list 
+
+ >Or we can say by "using doubly-l-list LIST stl has ben made"
+
+
+Q.What is Doubly-LInked-List?
+>There r 2-Pointers , one for front  and
+  another one for back
+  so this is Doubly-L-List
+
+
+------------------------------------------------
+ IMPORTANT:
+
+Q.In D-L-L , is "Direct-Acees is popssible in it 
+ , just like in Vector , Array where we used
+  '.at' opeeration o find"????
+Can we do it in List??
+
+>>NO we Can't 
+
+  suppose e hv to find 4th element , we hv to 
+  travel to reach there, means we can reach there
+  only " by Traversing"
+
+we can't reach directly by using at funcn 
+and writing its index numbr
+-------------------------------------------------
+
+

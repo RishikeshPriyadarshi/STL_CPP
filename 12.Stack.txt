@@ -1,0 +1,24 @@
+        STACK
+        ------
+EX: When we attend the marriage, then we hv many plates    
+  we pick the top plate, we don't pick the latter
+  or below one..
+  we always pick up the top plate, the standing behind
+  us will ddo the same..
+
+  What Does it mean?
+
+  >Whenever the plates r kept , they kept on top of each other,
+  which means,
+  The plate kept First is at Bottom
+  and it will be used at Last...
+
+
+  NOTE:
+  -----
+  In STACK conceptt of "LIFO is Used"
+  which means "the one that goes last will be
+               used first"...
+
+               
+

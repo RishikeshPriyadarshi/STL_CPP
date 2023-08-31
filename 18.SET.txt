@@ -1,0 +1,39 @@
+           SET
+           ----
+
+>"All the UNIQUE-Elements r sored in set "
+
+   mean if we hjave put 5 times 5 , then
+   5 will only appear only once in Set..
+
+ >"It stores every element only once"
+
+   Means every le should be Unique
+
+   -----------------------------------------------
+
+ Behind the Scenes,
+ How it is Implemented?
+ >By using BST(Binary-Search-Tree)
+
+ NOTE:
+ "Means if we hv already included the element,
+ we cannot modify it afterwards,
+ 'either we place it or delete it' ,
+ only these 2 things r avilable"...
+
+ >"There is NO-MODIFICATION"   
+
+ >"the elements r returned in Sorted order"
+
+ >"whn we start taking ele it will come in 
+   sorted order"..
+
+
+
+     UNORDEERED-SET:
+    ------------
+  >The diff. in unordered set is that ,
+
+  "SET is Slower than UNORDERED-SET "
+             

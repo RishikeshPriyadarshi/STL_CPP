@@ -1,0 +1,7 @@
+       QUEUE
+       ------
+
+>Queue means line , line me jo pehle laga hai wo 
+pehle bahar atta hai...
+
+>means Queue follows concept of "FIFO"

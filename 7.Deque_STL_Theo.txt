@@ -1,0 +1,24 @@
+                DEQUEUE
+                --------
+>Dequeue means "Doubly-Ended-Queue"
+ means we can apply "push and pop " or "insertion and deletion"
+ at the beginning and the end...
+
+
+
+NOTE: Like in the case off vector and array data was stored in
+----- Contiguous memory location 
+
+              
+              BUT
+
+      It does not happen in the case of DEQUE , instaed we hv
+      "Multiple fixed arrays"
+      and "tracking takes place that our data is sored in which array"
+
+
+>Deque is also "DYNAMIC" in nature, its size can increse or a/c to need
+
+>And "Random access" is also popssible
+  by using '.at' operation....
+
